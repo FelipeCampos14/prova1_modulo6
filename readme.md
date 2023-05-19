@@ -1,0 +1,1 @@
+Coloquei só o arquivo python porque se fosse mandar todos os arquivos ia demorar muito
